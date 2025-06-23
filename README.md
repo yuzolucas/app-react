@@ -1,3 +1,10 @@
+## Para rodar o projeto
+Clone o repositório
+No terminal, utilize os seguintes comandos em sequência:
+- npm i
+- npm run dev
+Abra http://localhost:3000 no seu navegador para ver o resultado 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
