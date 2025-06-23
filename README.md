@@ -1,11 +1,16 @@
-## Para rodar o projeto
-Clone o repositório.
-No terminal, utilize os seguintes comandos em sequência:
+## Como rodar o projeto
+Siga estes passos para colocar o projeto em funcionamento na sua máquina:
+1. Clone o repositório
+2. Abra o terminal na pasta raiz do projeto
+3. Instale as dependências com:  
 ```bash
-- npm i
-- npm run dev
+npm i
 ```
-Abra http://localhost:3000 no seu navegador para ver o resultado.
+4. Inicie o servidor com:
+```bash
+npm run dev
+```
+5. Abra seu navegador e acesse http://localhost:3000 para ver o resultado.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
